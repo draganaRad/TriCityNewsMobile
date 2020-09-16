@@ -1,8 +1,8 @@
 // map line color and style for all news items
 var lineStyle = {
-		"color": "#FF7F00", // darkOrange_color ("Paired")
-		"weight": 5,
-		"opacity": 0.5
+		"color": "#40AEE0", // iPhone app "AccentColor"
+		"weight": 7,
+		"opacity": 0.8
 };
 
 var tileUrl = 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png'
