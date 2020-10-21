@@ -8,7 +8,7 @@ let lineStyle = {
 let lowStressStyle = {
 	"color": "#377EB8", // Stress map blue (Mapbox)
 	"weight": 7,
-	"opacity": 0.8
+	"opacity": 0.6
 };
 
 let tileUrl = 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png'
